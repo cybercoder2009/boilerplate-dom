@@ -1,7 +1,7 @@
 {
-  "name": "template-ui",
+  "name": "boilerplate-dom",
   "version": "1.0.0",
-  "description": "template-ui",
+  "description": "boilerplate-dom",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cybercoder2009/template-ui.git"
+    "url": "git+https://github.com/cybercoder2009/boilerplate-dom.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cybercoder2009/template-ui/issues"
+    "url": "https://github.com/cybercoder2009/boilerplate-dom/issues"
   },
-  "homepage": "https://github.com/cybercoder2009/template-ui#readme",
+  "homepage": "https://github.com/cybercoder2009/boilerplate-dom#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-react": "^7.10.1",
